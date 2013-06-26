@@ -4,8 +4,8 @@
 #QtCreator files
 *.creator
 *.creator.user
-*.creator.files
-*.creator.includes
+*.files
+*.includes
 
 #OpenFOAM files 
 Make/linux*
